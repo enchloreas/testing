@@ -1,2 +1,5 @@
+__pycache__
 .idea/
 chat_gpt_prompts/
+chat_gpt_prompts/tips/
+playwright/traces/
