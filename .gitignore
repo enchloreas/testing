@@ -3,3 +3,7 @@ __pycache__
 chat_gpt_prompts/
 chat_gpt_prompts/tips/
 playwright/traces/
+.venv/
+__pycache__/
+*.pyc
+traces/
